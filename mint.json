@@ -59,7 +59,7 @@
     },
     {
       "group": "Guides",
-      "pages": ["guides/integrations/google-drive"]
+      "pages": ["guides/integrations/google-drive","guides/integrations/google-docs"]
     }
   ],
   "footerSocials": {
