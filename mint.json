@@ -48,7 +48,7 @@
     },
     {
       "group": "Guides",
-      "pages": ["guides/integrations/google-drive","guides/integrations/google-docs"]
+      "pages": ["guides/integrations/google-drive","guides/integrations/google-docs","guides/integrations/slack"]
     }
   ],
   "footerSocials": {
