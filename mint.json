@@ -49,6 +49,10 @@
     {
       "group": "Guides",
       "pages": ["guides/integrations/google-drive","guides/integrations/google-docs","guides/integrations/slack", "guides/integrations/dropbox", "guides/integrations/gmail","guides/integrations/discord","guides/integrations/docs","guides/integrations/url","guides/integrations/youtube"]
+    },
+    {
+      "group": "Components",
+      "pages": ["guides/components/bot","guides/components/collection","guides/components/source"]
     }
   ],
   "footerSocials": {
