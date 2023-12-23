@@ -39,8 +39,8 @@
   ],
   "navigation": [
     {
-      "group": "Essentials",
-      "pages": ["essentials/source", "essentials/collection", "essentials/bot"]
+      "group": "Getting Started",
+      "pages": ["introduction", "essentials/source", "essentials/collection", "essentials/bot"]
     },
     {
       "group": "Guides",
