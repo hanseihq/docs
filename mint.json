@@ -40,7 +40,7 @@
   "navigation": [
     {
       "group": "Essentials",
-      "pages": ["guides/components/source", "guides/components/collection", "guides/components/bot"]
+      "pages": ["essentials/source", "essentials/collection", "essentials/bot"]
     },
     {
       "group": "Guides",
